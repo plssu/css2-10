@@ -1,0 +1,278 @@
+#section {
+    display: inline-block;
+    text-align: center;
+    padding: 96px;
+    padding-bottom: 77px;
+    margin-left: 58px;
+    margin-right: 58px;
+    margin-top: 40px;
+    width: 977px;
+    height: 1808px;
+    left: 1604px;
+    top: 64px;
+    background-color: #c9e2ec;
+    border: 2px solid hsl(197, 76%, 75%);
+}
+
+#secOne {
+    display: inline-block;
+    text-align: center;
+    width: 970px;
+    height: 1750px;
+}
+
+#contOne {
+    display: inline-block;
+    align-items: center;
+    padding: 0px 32px;
+    padding-bottom: 32px;
+    width: 920px;
+    max-width: 1000px;
+    height: 1715px;    
+}
+
+#postcard {
+    width: 920px;
+    height: 599px;
+}
+
+#posterimg {
+    width: 980px;
+    height: 644px;
+    border-radius: 16px;
+}
+
+#contTwo {
+    display: inline-block;
+    padding: 2px;
+    width: 980px;
+    height: 100px; 
+}
+
+#headAndText {
+    display: inline-block;
+    padding: 0px;
+    width: 980px;
+    height: 98px;
+}
+
+#olivia {
+    width: 980px;
+    height: 8px;
+    text-align: left;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 20px;
+    color: #6941C6;    
+}
+
+#compelling {
+    width: 980px;
+    height: 4px;
+    text-align: left;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #535862;
+}
+
+#ux {
+    display: inline-block;
+    margin: 0 auto;
+    width: 980px;
+    height: 24px;
+    text-align: left;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 38px;
+    color: #181D27;    
+}
+
+#wrap {
+    display: inline-block;
+    width: 25px;
+    height: 24px;
+    border: 2px solid #181D27;    
+}
+
+#presentations {
+    display: inline-block;
+    padding: 0px;
+    width: 980px;
+    height: 32px;    
+}
+
+#categories {
+    display: inline-block;
+    padding: 0px;
+    width: 980px;
+    height: 36px;    
+}
+
+#categories {
+    padding: 0px;
+    width: 980px;
+    height: 36px;
+    text-align: left;
+
+}
+
+#design {
+    display: inline;
+    width: 70px;
+    height: 25px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+    text-align: center;
+    border-radius: 6px;
+    border: 1px solid #E9D7FE;
+    background-color: #F9F5FF;
+    color: #6941C6;
+}
+
+#research {
+    display: inline;
+    width: 70px;
+    height: 25px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+    text-align: center;
+    border-radius: 6px;
+    border: 1px solid #C7D7FE;
+    background-color: #EEF4FF;
+    color: #3538CD;
+}
+
+#presentation {
+    width: 85px;
+    height: 25px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+    text-align: center;
+    border-radius: 6px;
+    border: 1px solid #FCCEEE;
+    background-color: #FDF2FA;
+    color: #C11574;
+}
+
+#d {
+    box-sizing: border-box;
+    display: inline-block;
+    align-items: center;
+}
+
+#r {
+    box-sizing: border-box;
+    display: inline-block;
+    align-items: center;
+    padding: 8px 12px;
+}
+
+#p {
+    box-sizing: border-box;
+    display: inline-block;
+    align-items: center;
+}
+
+#blogs {
+    display: inline-block;
+    margin-top: 240px;
+    width: 915px;
+    height: 875px;
+}
+
+#blogOne {
+    display: inline-block;
+    margin-left: 0 auto;
+    width: 320px;
+    min-width: 320px;
+    height: 840px;
+}
+
+#working {
+    width: 320px;
+    height: 240px;
+    border-radius: 6px;
+}
+
+#baker {
+    width: 384px;
+    height: 20px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 2px;
+    color: #6941C6;
+}
+
+#migrants {
+    width: 344px;
+    height: 32px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 24px;
+    color: #181D27;
+}
+
+#categOne
+
+#blogTwo {
+    display: inline-block;
+    padding: 0px;
+    width: 384px;
+    min-width: 320px;
+    height: 436px;
+}
+
+#blogThree {
+    display: inline-block;
+    text-align: left;
+    width: 320px;
+    min-width: 320px;
+    height: 840px;
+}
+
+
+#blogFour {
+    display: inline-block;
+    text-align: left;
+    width: 320px;
+    min-width: 320px;
+    height: 840px;
+}
+
+
+#blogFive {
+    display: inline-block;
+    text-align: left;
+    width: 320px;
+    min-width: 320px;
+    height: 840px;
+}
+
+
+#blogSix {
+    display: inline-block;
+    text-align: left;
+    width: 320px;
+    min-width: 320px;
+    height: 840px;
+}
